@@ -1,0 +1,4 @@
+interface:
+  display_name: "医学循证写作与审校"
+  short_description: "撰写与审校医学科普、患者教育和专业说明，逐项核对关键表述与来源。"
+  default_prompt: "使用 $medical-evidence-writing 根据我的材料撰写或审校医学内容，核对关键表述与来源，并按任务需要交付参考文献。"
